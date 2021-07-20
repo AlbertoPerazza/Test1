@@ -1,0 +1,7 @@
+# .NET compilation folders
+bin
+obj
+
+# IDE settings folders
+.vs
+.vscode
